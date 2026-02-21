@@ -7,4 +7,4 @@ ScrollReveal().reveal('.orange', {
         z: 20
     }
 });
-ScrollReveal().reveal('.butterfly', { delay: 1000 });
+ScrollReveal().reveal('.butterfly', { duration: 5000 });
