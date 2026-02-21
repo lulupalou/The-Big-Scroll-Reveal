@@ -1,0 +1,1 @@
+ScrollReveal().reveal('.pink',{delay: 1000});
